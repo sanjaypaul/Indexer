@@ -1,0 +1,12 @@
+D:\OOP Training (.Net) @ BASIS\Course Content\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\bin\Debug\IndexerExample1.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\bin\Debug\IndexerExample1.pdb
+D:\OOP Training (.Net) @ BASIS\Course Content\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\OOP Training (.Net) @ BASIS\Course Content\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\IndexerExample1.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\IndexerExample1.pdb
+G:\BASIS\.Net Course Content\Generics and Indexer\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\IndexerExample1.exe
+G:\BASIS\.Net Course Content\Generics and Indexer\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\IndexerExample1.pdb
+G:\BASIS\.Net Course Content\Generics and Indexer\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\bin\Debug\IndexerExample1.exe
+G:\BASIS\.Net Course Content\Generics and Indexer\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\bin\Debug\IndexerExample1.pdb
+G:\BASIS\.Net Course Content\Generics and Indexer\Generics and Indexer\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OOP0151-Evening\20-Jan-2015\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\IndexerExample1.exe
+E:\OOP0151-Evening\20-Jan-2015\Indexer\IndexerExample1\IndexerExample1\obj\x86\Debug\IndexerExample1.pdb
